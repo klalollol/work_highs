@@ -27,3 +27,4 @@ def TrappingWater(arr):
 
 # keep this function call here 
 print(TrappingWater(input()))
+#work
