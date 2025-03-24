@@ -6,7 +6,7 @@ def GCF(arr):
     
 
 
-#sigma
+#bro
 
 
 print(GCF(input()))
