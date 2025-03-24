@@ -6,7 +6,7 @@ def GCF(arr):
     
 
 
-#bro
 
 
+#bruhhh
 print(GCF(input()))
