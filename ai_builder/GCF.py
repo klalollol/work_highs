@@ -5,4 +5,6 @@ def GCF(arr):
   return x
 
 
+#aspkdwaPOIJd
+
 print(GCF(input()))
