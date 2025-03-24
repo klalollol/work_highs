@@ -5,8 +5,8 @@ def GCF(arr):
   return x
     
 
+#howtf
 
 
-
-#bruhhh
+#nggg
 print(GCF(input()))
