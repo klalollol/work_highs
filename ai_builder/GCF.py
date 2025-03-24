@@ -3,6 +3,8 @@ def GCF(arr):
   while y !=0:
     x,y = y,x%y
   return x
+#22wadsadw
+
 
 
 print(GCF(input()))
