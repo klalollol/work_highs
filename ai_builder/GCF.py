@@ -3,7 +3,10 @@ def GCF(arr):
   while y !=0:
     x,y = y,x%y
   return x
-    
+#nigger
 
+
+for i in range (1000):
+  break
 
 print(GCF(input()))
