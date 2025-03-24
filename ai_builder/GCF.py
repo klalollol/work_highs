@@ -7,4 +7,6 @@ def GCF(arr):
 
 
 
+#aspkdwaPOIJd
+
 print(GCF(input()))
