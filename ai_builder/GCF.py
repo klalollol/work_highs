@@ -6,7 +6,4 @@ def GCF(arr):
 #nigger
 
 
-for i in range (1000):
-  break
-
 print(GCF(input()))
