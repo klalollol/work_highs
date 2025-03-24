@@ -5,7 +5,5 @@ def GCF(arr):
   return x
     
 
-for i in range (1000):
-  break
 
 print(GCF(input()))
