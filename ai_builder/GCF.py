@@ -3,7 +3,6 @@ def GCF(arr):
   while y !=0:
     x,y = y,x%y
   return x
-#nigger
 
 
 print(GCF(input()))
