@@ -4,7 +4,8 @@ def GCF(arr):
     x,y = y,x%y
   return x
     
-    
+#work
+
    
 
 print(GCF(input()))
